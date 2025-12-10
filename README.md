@@ -73,7 +73,7 @@ These scripts are integrated into a single reproducible workflow but can be reus
 
 ## Technologies
 
-- **Language:** R (R Markdown)
+- **Language:** R 
 - **Differential expression:** DESeq2, edgeR, apeglm
 - **Data handling:** tidyverse, dplyr, tibble, readxl, xlsx
 - **Visualization:** ggplot2, ggpubr, plotly, pheatmap, ggrepel
