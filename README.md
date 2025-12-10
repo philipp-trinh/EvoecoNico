@@ -8,7 +8,7 @@ This repository contains the analysis code developed for the **WS23/24 Plant Eco
 
 ## Overview
 
-The project implements a complete RNA-seq analysis workflow in **R**, starting from STAR/featureCounts output and ending with statistically filtered differentially expressed genes and GO term enrichment results.
+The project implements a complete RNA-seq analysis workflow in **R** and on SLURM, starting from STAR/featureCounts output and ending with statistically filtered differentially expressed genes and GO term enrichment results.
 
 The analysis is organized as **R Markdown notebooks** per species and a set of reusable helper functions that handle data preprocessing, differential expression, quality control, and functional interpretation.
 
